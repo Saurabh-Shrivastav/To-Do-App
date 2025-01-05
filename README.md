@@ -45,7 +45,7 @@ also be added by clicking on Add new button which will be visible to you as per 
 
 
 📜 Version Control
-This project is version-controlled using Git. The complete repository can be found here: [GitHub Repository Link]
+This project is version-controlled using Git. The complete repository can be found here: https://github.com/Saurabh-Shrivastav/To-Do-App
 
 
 📝 Author
@@ -66,6 +66,6 @@ Saurabh Shrivastav
    Create a new repository on GitHub.
    Push your code to the repository:
 
-       git remote add origin [your-repository-url]
+       git remote add origin https://github.com/Saurabh-Shrivastav/To-Do-App
        git branch -M main
        git push -u origin main
